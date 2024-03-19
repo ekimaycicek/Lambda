@@ -90,7 +90,6 @@ public class LambdaExpression {
         Bu ifadeler parantez içine alınır ve parantezlerden sonra noktalı virgül eklemeniz gerekir.
 
 
-
             () -> {
              double pi = 3.1415;
                 return pi;
