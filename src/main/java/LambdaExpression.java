@@ -96,6 +96,7 @@ public class LambdaExpression {
    ahanda trick köşeşinde bugun :   Lambda Expression  yapisi cok tavsiye edilmez daha cok METHOD REFERENCE kullanilir
 
     */
+
     public static void FunctionalPrintEleman1(List<Integer> sayı ){// functional programing
 
         sayı.// aksiyona girecek list collections
