@@ -100,6 +100,7 @@ public class LambdaExpression {
 
 
 
+
     public static void FunctionalPrintEleman1(List<Integer> sayı ){// functional programing
 
         sayı.// aksiyona girecek list collections
